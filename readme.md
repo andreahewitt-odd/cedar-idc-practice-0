@@ -11,6 +11,11 @@
 
 [Pre-need eligibility](https://www.va.gov/burials-memorials/pre-need-eligibility/)
 
+[VSO Search](https://www.ebenefits.va.gov/ebenefits/vso-search
+)
+
+[Application for Disability Compensation Form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
+
 ## User Stories
 
 ## Test Cases
