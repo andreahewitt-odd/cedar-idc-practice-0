@@ -12,5 +12,6 @@
 ## User Stories
 
 ## Test Cases
+[Test Scenarios MD](TestScenarios.md)
 
 ## Technology / Infrastructure Choices
